@@ -73,7 +73,7 @@ SteCo will start the search for a Tech Lead and Marketing Lead with great track 
 With these changes, the SteCo structure will look as follows:
 
 - **Tech Advisory** (led by JoeTom): This group focuses on Qubic’s Core technical development. It oversees the creation, improvement, backlog prioritization, and maintenance of Qubic’s technical infrastructure, ensuring the project remains cutting-edge, functional, and the best infrastructure to build on for developers.
-- **interim SteCo Member** (Zgirt) Will provide insides about computors and miners business. Will also help with partnerships and business relations, especially in the GCC region.
+- **Operator and Mining Relations** (interim led by Zgirt): prepares insights onto computors and miners distribution. Will also help with partner and business relations, especially in the GCC region.
 - **Marketing** (led by Foley): This group is responsible for increasing the brand awareness and visibility of Qubic. They develop strategies and run day-to-day operations to increase visibility, attract new users, and build a strong brand presence across various paid, earned, and owned channels.
 - **Ecosystem & Partnerships** (led by Alber): This group drives crypto partnerships, integration with crypto tools, and exchange listings, crucial for expanding Qubic's reach and making it more accessible.
 - **Community** (led by Tom55): This group will manage the Qubic community on Discord and Telegram. It aims to foster a vibrant and engaged community, which is essential for the long-term success of the project. SteCo intends to decentralize the community Discord and Telegram.
