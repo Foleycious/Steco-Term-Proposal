@@ -63,7 +63,7 @@ The SteCo team structure introduces some changes to further professionalize and 
 - **Alber** will be presented to join SteCo as the Lead Ecosystems and Partnerships.
 - **Crypdro** will move to a role within the Ecosystem and Partnerships team where he will manage special projects.
 - **JoeTom** moves full-time to Core Technology as he wants to spend more dedicated time on building a product organization within Core Tech. He will continue to be the main contact for all Core Tech at Qubic. JoeTom will continue to support SteCo in the role as an advisor.
-- **Zgirt** steps up as an interim SteCo member until a CTO for the Lead of the Tech Department is found / hired and approved by Quorum, SteCo and Joetom. Zgirt will support especially in questions regarding businesses & partnerships and for a voice of computor operators and miners inside SteCo.
+- **Zgirt** Zgirt steps up as an interim SteCo member until a CTO for the Lead of the Tech Department is found / hired and approved by Quorum, SteCo and Joetom. Zgirt will help to drive strategy toward computor operators and miners. He will also help the ecosystem team to build out relationships in GCC.
 - **Foley** explores the path of hiring a new Marketing Lead with extensive marketing and crypto experience. Until the right person is found, Foley stays as the Marketing Lead and keeps driving it forward.
 - **Tom** will stay as the Community Lead and will work closely with the Qubic Community Board (more on that later).
 - **Talentnodes** remains in SteCo as the Lead for Strategy, Finance, and Operations.
